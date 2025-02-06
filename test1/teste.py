@@ -13,7 +13,8 @@
 #função isinstancce() 
 a =10
 b = 'sol'
-print(isinstance(a, (bool,int))) # PEGA A VARIAVEL A E VE SE O TIPO QUE VOCE PASSOU E O MESMO DA VARIAVEL
+print(isinstance(b, (str))) # PEGA A VARIAVEL A E VE SE O TIPO QUE VOCE PASSOU E O MESMO DA VARIAVEL
+print(isinstance(a,(int)))
 
 a = 40
 c = 3
