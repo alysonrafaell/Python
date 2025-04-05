@@ -17,3 +17,10 @@ for pedra in pedras:
     if pedra == 'quartzo':
         continue
     print(pedra)
+
+pessoas = ('alyson', 'rafael', 'alefe', 'gabriel')
+    
+for pessoas in pessoas:
+    if pessoas == 'rafael':
+        continue
+    print(pessoas)
